@@ -1,0 +1,159 @@
+body {
+    background-color: #2c35b3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+
+p {
+    text-align:center; 
+    font-weight:bold; 
+    font-style:italic; 
+}
+.texto  {
+    
+        text-align:center; 
+        font-weight:normal;    
+        background-color: #f2f2f2;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      }
+
+
+header {
+    background-color: #2c35b3;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    }
+    section {
+    padding: 20px; }
+    footer {
+    background-color: #2c35b3; 
+    color: #fff;
+    padding: 20px 0; }
+    .footer-content {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: center; }
+    
+nav {
+    background-color: #2c35b3;
+    padding: 10px;
+    }
+    nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    }
+    nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    }
+    nav ul li a:hover {
+    background-color: #3B5998;
+}
+    img {
+        display: block; 
+        margin: 0 auto; 
+        max-width: 25%;
+        border: 3px solid #125688;
+        border-radius: 10px; 
+    }
+    body {
+        background-color: #fff;
+        color: #333;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    
+    p {
+        text-align:center; 
+        font-weight:bold; 
+        font-style:italic; 
+    }
+    .fa {
+      font-size: 30px;
+      width: 50px;
+      display: inline-block;
+      text-align: center;
+      text-decoration: none;
+      margin: 10px 2px;
+      border-radius: 50%;
+      color: white;
+    }
+    
+    .fa-facebook {
+      background: #3B5998;
+    }
+    
+    .fa-twitter {
+      background: #55ACEE;
+    }
+    
+    .fa-instagram {
+      background: #125688;
+    }
+    button {
+      width: 100px;
+      padding: 10px;
+      background-color: #2c35b3;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #125688;
+    }
+    form {
+      width: 300px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f2f2f2;
+      border-radius: 5px;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    button[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      background-color: #2c35b3;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    button[type="submit"]:hover {
+      background-color: #125688;
+    }
+        
+
+        
